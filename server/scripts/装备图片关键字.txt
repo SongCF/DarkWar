@@ -1,0 +1,17 @@
+zb_swd		单手剑
+zb_shld		盾牌
+zb_tk			头盔
+zb_hsf		护身符
+zb_kj_z		盔甲（重）
+zb_kj_q		盔甲（轻）
+zb_kz_z		裤子（重）
+zb_kz_q		裤子（轻）
+zb_xz			靴子
+zb_jz			戒指
+zb_gong		弓
+zb_fz_ds	单手法杖
+zb_fz_ss	双手法杖
+zb_fq			法器
+zb_mao		双手矛
+zb_fu			双手斧
+			
